@@ -1,10 +1,10 @@
 {
   "WebGL.data": {
     "partCount": 3,
-    "totalSize": 53542829
+    "totalSize": 53548011
   },
   "WebGL.wasm": {
-    "partCount": 2,
-    "totalSize": 40365423
+    "partCount": 3,
+    "totalSize": 40378243
   }
 }
